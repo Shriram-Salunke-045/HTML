@@ -1,0 +1,59 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="dada.jpg" alt=" " srcset="" height="150" width="150">
+    <h1>Gaurav Hemant Salunke</h1>
+    
+    <h2>Officer (Effluent Treatment Plant and Environment, Health & Safety) at Sohan Healthcare Private Limited</h2>
+    
+    <h3>Environmental Engineer · Project Engineer · Proposal Engineer · Commissioning Engineer</h3>
+    <hr>
+    <p>A keen and confident post graduate (M. Tech. Civil-Environmental Engineering) with the knowledge of water treatment, wastewater treatment, water distribution & sewerage network, solid waste management, air pollution control and Environment, Health & Safety (EHS).
+        Having completed internship at Priora Water Solutions Pvt. Ltd. Pune, became skilled in designing, operating and maintaining water, sewage and effluent treatment plants.
+        Also familiar with softwares like AutoCAD, WaterGEMs, SewerGEMs, ArcGIS, Advanced Excel and other Microsoft Office applications.
+        Completed certified course works in water and sanitation management, faecal sludge management, solid waste management, air pollution control and industrial safety.
+        Looking for opportunities in the field of water & wastewater management, hydraulic modelling, solid waste management and EHS to improve my capabilities and apply them for fulfilling company’s goals.</p>
+        <hr>
+        <a href="https://www.linkedin.com/in/gaurav-hemant-salunke"target="_blank">  linldin profile </a><br>
+        <a href="https://www.facebook.com/gaurav.salunke.9277"target="_blank">facebook profile</a><br>
+        <a href="https://instagram.com/unsolved_g?igshid=1iwg8i2bqllnd"target="_blank"> facebook profile</a>
+        <hr>
+        <h4>Experience</h4>
+        <ul type="Square">
+            <li>Officer ETP/EHS <br>
+                Sohan Healthcare Private Limited Full-time <br>
+                Jul 2020 – Present <br>
+                4 mos <br>
+                Pune, Maharashtra, India</li>
+                <br>
+            <li>Trainee Environmental Engineer <br>
+                Priora Water Solutions Pvt. Ltd. Internship  <br>
+                Jun 2019 – Jul 2019 <br>
+                2 mos <br>
+                Pune, Maharashtra</li>
+            
+        </ul>
+        <hr>
+        <h4>Education</h4>
+        <ul type="circle">
+            <li>Walchand College of Engineering(A Govt. Aided Autonomous Institute),SANGLI-M.S <br>
+                Master of Technology-Mtech.Civil(Environmental)Engineering <br>
+                2018-2020<br>
+                 <br>
+                </li>
+                <br>
+            <li>All India Shivaji Memorial Societys College of Engineering,Pune <br>
+                bachelor of Engineering,Civil Engineering,First class with distinction <br>
+                2013-2017<br>
+                </li>
+                <img src="d.jpg" alt=" " srcset="" height="150" width="150">
+
+
+
+</body>
+</html>
